@@ -28,13 +28,13 @@
     "url": "git+https://github.com/pdsuwwz/vite-tree-shaking.git"
   },
   "devDependencies": {
-    "@types/node": "^17.0.45",
-    "@typescript-eslint/eslint-plugin": "^5.30.7",
-    "@typescript-eslint/parser": "^5.30.7",
-    "eslint": "^8.20.0",
-    "eslint-plugin-html": "^6.2.0",
+    "@types/node": "^18.11.17",
+    "@typescript-eslint/eslint-plugin": "^5.47.0",
+    "@typescript-eslint/parser": "^5.47.0",
+    "eslint": "^8.30.0",
+    "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.26.0",
-    "typescript": "^4.7.4",
-    "vite": "^3.0.2"
+    "typescript": "^4.9.4",
+    "vite": "^4.0.3"
   }
 }
